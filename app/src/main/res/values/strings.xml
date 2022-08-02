@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeightTracker</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cnfPassword">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="input_weight">Input Your Weight</string>
+    <string name="weight">Weight(KG)</string>
+    <string name="submit">Submit</string>
+    <string name="entries">Entries</string>
+    <string name="logout">Logout</string>
+    <string name="date">Date</string>
+    <string name="loginAnonymaously">Login Anonymously</string>
+    <string name="update">Update</string>
+    <string name="delete_record">Delete</string>
+    <string name="record" />
+    <string name="record_details">Weight Details</string>
+    <string name="time_updated">Time Updated</string>
+    <string name="name">Your Name</string>
+</resources>
